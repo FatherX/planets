@@ -1,3 +1,3 @@
 *.dat
 results/
-bio/me.txt
+delete: bio/me.txt
